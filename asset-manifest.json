@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/job_project/static/css/main.6c880785.css",
+    "main.js": "/job_project/static/js/main.fcdbc89e.js",
+    "static/media/icon-job.png": "/job_project/static/media/icon-job.300d90b7af7d59c1caf2.png",
+    "index.html": "/job_project/index.html",
+    "static/media/icon-remove.svg": "/job_project/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.6c880785.css.map": "/job_project/static/css/main.6c880785.css.map",
+    "main.fcdbc89e.js.map": "/job_project/static/js/main.fcdbc89e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c880785.css",
+    "static/js/main.fcdbc89e.js"
+  ]
+}
